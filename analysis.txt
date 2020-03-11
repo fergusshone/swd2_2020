@@ -3,3 +3,5 @@ This file will be used to report notes on the data and on the analysis.
 Statistics is the devil's work.
 
 Still awful.
+
+Yes.
