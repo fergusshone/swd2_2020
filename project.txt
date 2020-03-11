@@ -8,6 +8,6 @@ We may need to bring a third person into this project with Python programmming s
 
 The third team member is average.
 
-We need to test his competency in R.
+We need to test his competency in R and C++.
 
 Matplotlib and version control skills will also be useful.
