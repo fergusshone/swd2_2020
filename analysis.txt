@@ -6,4 +6,8 @@ Still awful.
 
 Yes.
 
+<<<<<<< HEAD
 When you get what you want but not what you need
+=======
+I hate jonny
+>>>>>>> 706023a197311cfc31ab79299d4fc801445b5dad
