@@ -12,4 +12,8 @@ We need to test his competency in R and C++.
 
 Matplotlib and version control skills will also be useful.
 
+<<<<<<< HEAD
+When you try your best but you don't succeed
+=======
 Jonny can you see this
+>>>>>>> 706023a197311cfc31ab79299d4fc801445b5dad
