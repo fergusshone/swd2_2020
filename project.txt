@@ -2,7 +2,7 @@ Some initial data analysis to identify how inflammation changes over time after 
 
 Jane is a data scientist and Samit is a statistician.
 
-We'll need to determine !!!!!!XXXX who is responsible for what in our project.
+We'll need to determine !!!!!!XXXXXXXXXXX dodgy  who is responsible for what in our project.
 
 We may need to bring a third person into this project with Python programmming skills.
 
